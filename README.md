@@ -42,8 +42,8 @@ Saat ini sedang mendalami arsitektur **Microservices**, optimasi **Database SQL*
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB]&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_GITHUB]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PetaFlops-web&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetaFlops-web&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
 </p>
 
 ---
