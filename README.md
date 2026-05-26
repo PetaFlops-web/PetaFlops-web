@@ -31,20 +31,8 @@ Saat ini sedang mendalami arsitektur **Microservices**, optimasi **Database SQL*
 
 ### 📂 Featured Projects
 
-| Project | Stack | Description |
-| :--- | :--- | :--- |
-| **[Nama App E-Commerce/Finance]** | Node.js, Express, MySQL | Backend API untuk manajemen transaksi user, lengkap dengan autentikasi & validasi data. |
-| **[Nama App Akademik/Kampus]** | Java (Spring/Native), SQL | Sistem informasi mahasiswa dengan fitur CRUD lengkap dan reporting sederhana. |
-| **[Nama App Fullstack Simple]** | MERN / Node + HTML | Aplikasi manajemen tugas (To-Do List) dengan fitur real-time sederhana. |
-
----
 
 ### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PetaFlops-web&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetaFlops-web&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
-</p>
 
 ---
 
