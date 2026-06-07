@@ -49,12 +49,15 @@ Sistem *backend* untuk platform manajemen lowongan pekerjaan (*job portal*) yang
   - Implementasi *Automated Testing* menyeluruh menggunakan **Jest** untuk menjamin stabilitas setiap *layer* aplikasi.
   - Desain dan dokumentasi pengujian *endpoint* API secara terstruktur menggunakan **Postman**..
 
-#### 🎮 [Math-Inclusive Quest](https://github.com/username/math-inclusive-quest)
-*Web-based game* edukasi yang dibangun dengan mengedepankan prinsip *Universal Design for Learning* (UDL), memastikan aksesibilitas tinggi untuk berbagai kebutuhan pengguna.
-- **Tech Stack:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+#### 📱 [Project P-Mobile](https://github.com/Ferdi-Kurniawan/project-p-mobile)
+Aplikasi *mobile fullstack* yang mengintegrasikan antarmuka klien interaktif dengan *backend* berkinerja tinggi. 
+- **My Role:** Backend Developer (Berperan dalam merancang API, skema database, dan integrasi *caching*)
+- **Tech Stack:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Nodemailer](https://img.shields.io/badge/Nodemailer-14A360?style=flat-square)
 - **Key Features:**
-  - Desain UI/UX yang inklusif untuk berbagai gaya belajar.
-  - Logika interaksi pengguna yang responsif.
+  - Pengembangan antarmuka *mobile* lintas platform yang responsif menggunakan **Flutter**.
+  - Operasi manipulasi database relasional yang aman dan *type-safe* menggunakan **Prisma ORM**.
+  - Peningkatan kecepatan respons *endpoint* API melalui sistem *caching* dengan **Redis**.
+  - Integrasi layanan pengiriman email otomatis secara *real-time* menggunakan **Nodemailer**.
 
 ---
 *Template Kosong untuk Proyek Baru:*
