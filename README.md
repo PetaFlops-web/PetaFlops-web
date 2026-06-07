@@ -49,7 +49,7 @@ Sistem *backend* untuk platform manajemen lowongan pekerjaan (*job portal*) yang
   - Implementasi *Automated Testing* menyeluruh menggunakan **Jest** untuk menjamin stabilitas setiap *layer* aplikasi.
   - Desain dan dokumentasi pengujian *endpoint* API secara terstruktur menggunakan **Postman**..
 
-#### 📱 [Project P-Mobile](https://github.com/Ferdi-Kurniawan/project-p-mobile)
+#### 📱 [Trip Nusa Desa](https://github.com/Ferdi-Kurniawan/project-p-mobile)
 Aplikasi *mobile fullstack* yang mengintegrasikan antarmuka klien interaktif dengan *backend* berkinerja tinggi. 
 - **My Role:** Backend Developer (Berperan dalam merancang API, skema database, dan integrasi *caching*)
 - **Tech Stack:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Nodemailer](https://img.shields.io/badge/Nodemailer-14A360?style=flat-square)
@@ -59,7 +59,7 @@ Aplikasi *mobile fullstack* yang mengintegrasikan antarmuka klien interaktif den
   - Peningkatan kecepatan respons *endpoint* API melalui sistem *caching* dengan **Redis**.
   - Integrasi layanan pengiriman email otomatis secara *real-time* menggunakan **Nodemailer**.
 
-#### 🤖 [Eksperimen Machine Learning (SML)](https://github.com/PetaFlops-web/Eksperimen_SML_AkbarVabiansyah)
+#### 🤖 Project Machine Learning And Deployment
 Kumpulan eksperimen dan implementasi model *Machine Learning* terstruktur untuk eksplorasi dan analisis data. Proyek ini mendemonstrasikan pemahaman algoritmik dalam melatih model (*model training*) serta mengevaluasi performa prediktif.
 - **Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 - **Key Features:**
@@ -67,6 +67,15 @@ Kumpulan eksperimen dan implementasi model *Machine Learning* terstruktur untuk 
   - Implementasi dan eksperimen berbagai algoritma pembelajaran mesin di dalam lingkungan eksekusi Python.
   - Evaluasi akurasi dan analisis performa model untuk menentukan pendekatan algoritma yang paling optimal.
   - Pemrosesan otomatis pada preprocessing pada dataset setiap update terjadi.
+  - Pembuatan Model dengan Save Modal setiap terjadi perubahan pada dataset
+  - Implementasi Grafana dan Prometheus
+  - Pembuatan sistem alert jika terjadi kegagal pada perdiction dan juga kapasitas CPU atau GPU yang berlebihan
+
+## Project List :
+
+1. Preprocessing : [Automation Preprocessing & Eksperimen Machine Learing](https://github.com/PetaFlops-web/Eksperimen_SML_AkbarVabiansyah)
+2. WorkFlow-CI : [Automation model](https://github.com/PetaFlops-web/Workflow-CI)
+ 
 
 
 
