@@ -31,7 +31,7 @@ Saat ini sedang mendalami arsitektur **Microservices**, optimasi **Database SQL*
 
 ### 📂 Featured Projects
 
-#### 🎵 [OpenMusic API V3](https://github.com/username/openmusic-api)
+#### [OpenMusic API V3](https://github.com/username/openmusic-api)
 RESTful API komprehensif untuk platform manajemen musik digital. Proyek ini difokuskan pada penerapan *clean architecture*, performa *query* database relasional, serta pengamanan akses data.
 - **Tech Stack:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 - **Key Features:**
@@ -40,7 +40,7 @@ RESTful API komprehensif untuk platform manajemen musik digital. Proyek ini difo
   - Implementasi *Message Broker* untuk eksekusi *background task* (ekspor data).
   - Optimasi *read* menggunakan sistem *caching* (Redis).
 
-#### 💼 [Open-Job](https://github.com/PetaFlops-web/Open-Job)
+#### [Open-Job](https://github.com/PetaFlops-web/Open-Job)
 Sistem *backend* untuk platform manajemen lowongan pekerjaan (*job portal*) yang dibangun dengan pendekatan *Clean Architecture*. Proyek ini dirancang untuk skalabilitas jangka panjang, kemudahan pemeliharaan (*maintainability*), dan keandalan logika bisnis.
 - **Tech Stack:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 - **Key Features:**
@@ -49,7 +49,7 @@ Sistem *backend* untuk platform manajemen lowongan pekerjaan (*job portal*) yang
   - Implementasi *Automated Testing* menyeluruh menggunakan **Jest** untuk menjamin stabilitas setiap *layer* aplikasi.
   - Desain dan dokumentasi pengujian *endpoint* API secara terstruktur menggunakan **Postman**..
 
-#### 📱 [Trip Nusa Desa](https://github.com/Ferdi-Kurniawan/project-p-mobile)
+#### [Trip Nusa Desa](https://github.com/Ferdi-Kurniawan/project-p-mobile)
 Aplikasi *mobile fullstack* yang mengintegrasikan antarmuka klien interaktif dengan *backend* berkinerja tinggi. 
 - **My Role:** Backend Developer (Berperan dalam merancang API, skema database, dan integrasi *caching*)
 - **Tech Stack:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Nodemailer](https://img.shields.io/badge/Nodemailer-14A360?style=flat-square)
@@ -59,7 +59,7 @@ Aplikasi *mobile fullstack* yang mengintegrasikan antarmuka klien interaktif den
   - Peningkatan kecepatan respons *endpoint* API melalui sistem *caching* dengan **Redis**.
   - Integrasi layanan pengiriman email otomatis secara *real-time* menggunakan **Nodemailer**.
 
-#### 🤖 Project Machine Learning And Deployment
+#### Project Machine Learning And Deployment
 Kumpulan eksperimen dan implementasi model *Machine Learning* terstruktur untuk eksplorasi dan analisis data. Proyek ini mendemonstrasikan pemahaman algoritmik dalam melatih model (*model training*) serta mengevaluasi performa prediktif.
 - **Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 - **Key Features:**
