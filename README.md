@@ -59,16 +59,14 @@ Aplikasi *mobile fullstack* yang mengintegrasikan antarmuka klien interaktif den
   - Peningkatan kecepatan respons *endpoint* API melalui sistem *caching* dengan **Redis**.
   - Integrasi layanan pengiriman email otomatis secara *real-time* menggunakan **Nodemailer**.
 
----
-*Template Kosong untuk Proyek Baru:*
-<!-- 
-#### 🚀 [Nama Proyek](Link Github)
-Deskripsi singkat mengenai tujuan proyek, arsitektur, atau tantangan utama yang diselesaikan (1-2 kalimat).
-- **Tech Stack:** ![Tool1](LinkShield) ![Tool2](LinkShield)
+#### 🤖 [Eksperimen Machine Learning (SML)](https://github.com/PetaFlops-web/Eksperimen_SML_AkbarVabiansyah)
+Kumpulan eksperimen dan implementasi model *Machine Learning* terstruktur untuk eksplorasi dan analisis data. Proyek ini mendemonstrasikan pemahaman algoritmik dalam melatih model (*model training*) serta mengevaluasi performa prediktif.
+- **Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 - **Key Features:**
-  - Fitur utama 1
-  - Fitur utama 2
--->
+  - Pemrosesan awal data (*Data Preprocessing*) dan rekayasa fitur untuk mempersiapkan dataset sebelum masuk ke tahap pelatihan.
+  - Implementasi dan eksperimen berbagai algoritma pembelajaran mesin di dalam lingkungan eksekusi Python.
+  - Evaluasi akurasi dan analisis performa model untuk menentukan pendekatan algoritma yang paling optimal.
+  - Pemrosesan otomatis pada preprocessing pada dataset setiap update terjadi.
 
 
 
