@@ -71,10 +71,10 @@ Kumpulan eksperimen dan implementasi model *Machine Learning* terstruktur untuk 
   - Implementasi Grafana dan Prometheus
   - Pembuatan sistem alert jika terjadi kegagal pada perdiction dan juga kapasitas CPU atau GPU yang berlebihan
 
-Project List :
+- **Project List:**
 
-1. Preprocessing : [Automation Preprocessing & Eksperimen Machine Learing](https://github.com/PetaFlops-web/Eksperimen_SML_AkbarVabiansyah)
-2. WorkFlow-CI : [Automation model](https://github.com/PetaFlops-web/Workflow-CI)
+  1. Preprocessing : [Automation Preprocessing & Eksperimen Machine Learing](https://github.com/PetaFlops-web/Eksperimen_SML_AkbarVabiansyah)
+  2. WorkFlow-CI : [Automation model](https://github.com/PetaFlops-web/Workflow-CI)
  
 
 
