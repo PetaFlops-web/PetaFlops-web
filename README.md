@@ -2,8 +2,8 @@
 
 ### Backend & Fullstack Developer | Node.js & Java Enthusiast
 
-Mahasiswa Teknologi Informasi yang fokus membangun sistem **Backend yang Scalable** dan **RESTful API** yang efisien.
-Saat ini sedang mendalami arsitektur **Microservices**, optimasi **Database SQL**, dan integrasi sistem Fullstack.
+Information Technology student focused on building Scalable Backend systems and efficient RESTful APIs.
+Currently diving deep into Microservices architecture, SQL Database optimization, and Fullstack system integration.
 
 ---
 
