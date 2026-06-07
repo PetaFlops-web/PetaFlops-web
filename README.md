@@ -22,54 +22,54 @@ Saat ini sedang mendalami arsitektur **Microservices**, optimasi **Database SQL*
 
 ### 🔭 What I'm Working On
 
-- 🔌 Membangun **REST API** yang aman menggunakan **Express.js & JWT**.
-- 💾 Merancang skema database yang efisien (ERD & Normalisasi) untuk aplikasi skala menengah.
-- 🔄 Belajar mengintegrasikan backend dengan frontend (React/Vue) untuk menjadi **Fullstack Developer**.
-- 🛠️ Mengelola deployment aplikasi menggunakan **Docker** dan server Linux dasar.
+- 🔌 Building secure REST APIs using Express.js & JWT.
+- 💾 Designing efficient database schemas (ERD & Normalization) for medium-scale applications.
+- 🔄 Learning to integrate the backend with the frontend (React/Vue) to become a Fullstack Developer.
+- 🛠️ Managing application deployment using Docker and basic Linux servers.
 
 ---
 
 ### 📂 Featured Projects
 
 #### [OpenMusic API V3](https://github.com/username/openmusic-api)
-RESTful API komprehensif untuk platform manajemen musik digital. Proyek ini difokuskan pada penerapan *clean architecture*, performa *query* database relasional, serta pengamanan akses data.
+A comprehensive RESTful API for a digital music management platform. This project focuses on implementing clean architecture, relational database query performance, and data access security.
 - **Tech Stack:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 - **Key Features:**
-  - Autentikasi dan Otorisasi pengguna menggunakan *JSON Web Token* (JWT).
-  - Skema database terstruktur untuk manajemen entitas Album, Lagu, dan Playlist.
-  - Implementasi *Message Broker* untuk eksekusi *background task* (ekspor data).
-  - Optimasi *read* menggunakan sistem *caching* (Redis).
+  - User Authentication and Authorization using JSON Web Tokens (JWT).
+  - Structured database schema for managing Album, Song, and Playlist entities.
+  - Implementation of a Message Broker for executing background tasks (data export).
+  - Read optimization using a caching system.
 
 #### [Open-Job](https://github.com/PetaFlops-web/Open-Job)
-Sistem *backend* untuk platform manajemen lowongan pekerjaan (*job portal*) yang dibangun dengan pendekatan *Clean Architecture*. Proyek ini dirancang untuk skalabilitas jangka panjang, kemudahan pemeliharaan (*maintainability*), dan keandalan logika bisnis.
+A backend system for a job vacancy management platform (job portal) built with a Clean Architecture approach. This project is designed for long-term scalability, maintainability, and business logic reliability.
 - **Tech Stack:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 - **Key Features:**
-  - Pemisahan *layer* logika bisnis dan infrastruktur secara terstruktur (*Clean Architecture*) untuk mempermudah skalabilitas.
-  - Skema database relasional yang optimal menggunakan **PostgreSQL** untuk mengelola entitas pengguna dan lowongan kerja.
-  - Implementasi *Automated Testing* menyeluruh menggunakan **Jest** untuk menjamin stabilitas setiap *layer* aplikasi.
-  - Desain dan dokumentasi pengujian *endpoint* API secara terstruktur menggunakan **Postman**..
+  - Structured separation of business logic and infrastructure layers (Clean Architecture) to facilitate scalability.
+  - Optimal relational database schema using PostgreSQL to manage user and job vacancy entities.
+  - Comprehensive Automated Testing implementation using Jest to ensure the stability of every application layer.
+  - Structured API endpoint testing design and documentation using Postman.
 
 #### [Trip Nusa Desa](https://github.com/Ferdi-Kurniawan/project-p-mobile)
-Aplikasi *mobile fullstack* yang mengintegrasikan antarmuka klien interaktif dengan *backend* berkinerja tinggi. 
-- **My Role:** Backend Developer (Berperan dalam merancang API, skema database, dan integrasi *caching*)
+A fullstack mobile application integrating an interactive client interface with a high-performance backend.
+- **My Role:** Backend Developer (Responsible for designing APIs, database schemas, and caching integration)
 - **Tech Stack:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Nodemailer](https://img.shields.io/badge/Nodemailer-14A360?style=flat-square)
 - **Key Features:**
-  - Pengembangan antarmuka *mobile* lintas platform yang responsif menggunakan **Flutter**.
-  - Operasi manipulasi database relasional yang aman dan *type-safe* menggunakan **Prisma ORM**.
-  - Peningkatan kecepatan respons *endpoint* API melalui sistem *caching* dengan **Redis**.
-  - Integrasi layanan pengiriman email otomatis secara *real-time* menggunakan **Nodemailer**.
+  - Responsive cross-platform mobile interface development using Flutter.
+  - Secure and type-safe relational database manipulation operations using Prisma ORM.
+  - Improved API endpoint response times through a caching system with Redis.
+  - Real-time automated email delivery service integration using Nodemailer.
 
 #### Project Machine Learning And Deployment
-Kumpulan eksperimen dan implementasi model *Machine Learning* terstruktur untuk eksplorasi dan analisis data. Proyek ini mendemonstrasikan pemahaman algoritmik dalam melatih model (*model training*) serta mengevaluasi performa prediktif.
+A collection of structured Machine Learning model experiments and implementations for data exploration and analysis. This project demonstrates algorithmic understanding in model training and evaluating predictive performance.
 - **Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 - **Key Features:**
-  - Pemrosesan awal data (*Data Preprocessing*) dan rekayasa fitur untuk mempersiapkan dataset sebelum masuk ke tahap pelatihan.
-  - Implementasi dan eksperimen berbagai algoritma pembelajaran mesin di dalam lingkungan eksekusi Python.
-  - Evaluasi akurasi dan analisis performa model untuk menentukan pendekatan algoritma yang paling optimal.
-  - Pemrosesan otomatis pada preprocessing pada dataset setiap update terjadi.
-  - Pembuatan Model dengan Save Modal setiap terjadi perubahan pada dataset
-  - Implementasi Grafana dan Prometheus
-  - Pembuatan sistem alert jika terjadi kegagal pada perdiction dan juga kapasitas CPU atau GPU yang berlebihan
+  - Data Preprocessing and feature engineering to prepare datasets before entering the training phase.
+  - Implementation and experimentation of various machine learning algorithms within the Python execution environment.
+  - Accuracy evaluation and model performance analysis to determine the most optimal algorithmic approach.
+  - Automated data preprocessing triggered upon every dataset update.
+  - Automated Model generation and Save Model execution whenever there are changes to the dataset.
+  - Implementation of Grafana and Prometheus
+  - Creation of an alert system for prediction failures as well as excessive CPU or GPU capacity usage.
 
 - **Project List:**
 
