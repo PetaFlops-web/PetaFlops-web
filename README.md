@@ -73,8 +73,8 @@ Kumpulan eksperimen dan implementasi model *Machine Learning* terstruktur untuk 
 
 - **Project List:**
 
-  1. Preprocessing : [Automation Preprocessing & Eksperimen Machine Learing](https://github.com/PetaFlops-web/Eksperimen_SML_AkbarVabiansyah)
-  2. WorkFlow-CI : [Automation model](https://github.com/PetaFlops-web/Workflow-CI)
+  - Preprocessing : [Automation Preprocessing & Eksperimen Machine Learing](https://github.com/PetaFlops-web/Eksperimen_SML_AkbarVabiansyah)
+  - WorkFlow-CI : [Automation model](https://github.com/PetaFlops-web/Workflow-CI)
  
 
 
